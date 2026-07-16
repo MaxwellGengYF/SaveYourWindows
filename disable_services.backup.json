@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-13T19:53:19.947779",
+  "services": {
+    "AppReadiness": {
+      "DisplayName": "App Readiness",
+      "Status": 1,
+      "StartType": 4
+    },
+    "SysMain": {
+      "DisplayName": "SysMain",
+      "Status": 1,
+      "StartType": 4
+    },
+    "WSearch": {
+      "DisplayName": "Windows Search",
+      "Status": 1,
+      "StartType": 4
+    },
+    "DiagTrack": {
+      "DisplayName": "Connected User Experiences and Telemetry",
+      "Status": 1,
+      "StartType": 4
+    },
+    "dmwappushsvc": {
+      "DisplayName": null,
+      "Status": null,
+      "StartType": null
+    },
+    "Spooler": {
+      "DisplayName": "Print Spooler",
+      "Status": 1,
+      "StartType": 4
+    },
+    "PcaSvc": {
+      "DisplayName": "Program Compatibility Assistant Service",
+      "Status": 1,
+      "StartType": 4
+    },
+    "TermService": {
+      "DisplayName": "Remote Desktop Services",
+      "Status": 1,
+      "StartType": 4
+    },
+    "wcncsvc": {
+      "DisplayName": "Windows Connect Now - Config Registrar",
+      "Status": 1,
+      "StartType": 4
+    }
+  }
+}
